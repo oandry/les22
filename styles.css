@@ -1,0 +1,40 @@
+/* Algemene stijlen */
+
+/* Voorbeeld van het overschrijven van Bootstrap-stijlen */
+body {
+    background-color: #f8f9fa; /* Achtergrondkleur van de body */
+    font-family: Arial, sans-serif; /* Lettertype */
+}
+
+/* Aanpassingen aan de header */
+header {
+    margin-bottom: 20px; /* Ruimte onder de header */
+}
+
+.navbar-brand {
+    font-size: 1.8em; /* Grootte van de titel in de navigatiebalk */
+}
+
+.navbar-nav .nav-link {
+    color: #fff; /* Kleur van de navigatielinks */
+    margin-right: 15px; /* Ruimte tussen de navigatielinks */
+}
+
+/* Stijl van de welkomsttekst op index.html */
+.container h1 {
+    color: #333; /* Kleur van de hoofdkop */
+}
+
+/* Stijl van de afbeeldingen op index.html */
+.img-fluid {
+    border: 2px solid #ccc; /* Rand rond de afbeeldingen */
+    border-radius: 5px; /* Afronding van de randen */
+}
+
+/* Aanpassingen aan de footer */
+footer {
+    background-color: #333; /* Achtergrondkleur van de footer */
+    color: #fff; /* Tekstkleur in de footer */
+    text-align: center; /* Uitlijning van de tekst in de footer */
+    padding-top: 10px; /* Ruimte bovenaan de footer */
+}
